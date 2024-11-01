@@ -1,0 +1,22 @@
+.tcg-div {
+   padding:10px;
+   overflow:hidden;
+   background-color:#fff;
+   clear:both;
+}
+
+.tcg-image {
+   float:left;
+   width:46px;
+   padding:0 6px 6px 0;
+}
+
+.tcg-message {
+   float:none;
+   clear:both;
+}
+
+.tcg-link {
+   float:right;
+   font-size:10px;
+}
